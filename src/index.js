@@ -1,4 +1,16 @@
 // Hi Waliyullahi! Welcome to decagon, your stack is node
-Let firstName = "Waliyullahi";
-Let stack = "node"
-const introduction = `Hi ${firstname}! Welcome to decagon, your stack is ${stack}`
+// let firstName = " Waliyullahi ";
+// let stack = "node";
+// const introduction = `Hi ${firstName}! Welcome to decagon, your stack is ${stack}`;
+// console.log(introduction);
+
+let firstName = "Waliyullahi";
+let lastName = "Lukman";
+let stack = "node";
+const introduction = `Hi ${firstName} ${lastName}! Welcome to decagon, your stack is ${stack}`;
+console.log(introduction);
+
+let code = "Javascript code";
+let nickName = "Agba Coder";
+const introduction1 = `This is my first ${code} by ${nickName}`;
+console.log(introduction1);
