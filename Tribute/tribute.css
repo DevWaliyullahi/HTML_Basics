@@ -1,1 +1,42 @@
+*{
+    margin: o;
+    padding: 0;
+    box-sizing: border-box;
+}
 
+body
+{background-color: rgb(26, 175, 175);
+}
+
+#title {
+    text-align: center;
+}
+
+#intro {
+    text-align: center;
+}
+
+.image-box {
+    background-image: url('/Tribute/Da-Grin-RIP.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    margin: auto;
+    width: 500px;
+}
+#txt-caption {
+    text-align: center;
+    font-size: x-large;
+    margin-bottom: 220px auto;
+}
+
+.life-header{
+    text-align: center;
+}
+
+.footer {
+    text-align: center;
+}
